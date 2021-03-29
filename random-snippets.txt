@@ -1,0 +1,1 @@
+glGetUniformLocation function returns -1 if name does not correspond to an active uniform variable in program, this means that is variable is not used at all. 
